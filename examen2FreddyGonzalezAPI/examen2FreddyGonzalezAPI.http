@@ -1,0 +1,6 @@
+@examen2FreddyGonzalezAPI_HostAddress = http://localhost:5079
+
+GET {{examen2FreddyGonzalezAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
